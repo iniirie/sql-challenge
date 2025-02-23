@@ -15,8 +15,8 @@ This project involves setting up and querying a PostgreSQL database utilizing pg
 5. **salaries** - Tracks employee salaries
 6. **titles** - Stores job titles
 
-<!-- <img src="C:\Repos\sql-challenge\EmployeeSQL\Images\SQL_challenge_ERD.png" style="zoom: 50%;" /> -->
-![ERD Diagram](Images/SQL_challenge_ERD.png)
+![ERD Diagram](EmployeeSQL/Images/SQL_challenge_ERD.png)
+
 
 
 
@@ -29,21 +29,24 @@ Prior to importing the CSVs to run queries, tables must be created to provide a 
 
 1.  **departments** 
 
-   ​	<img src="C:\Repos\sql-challenge\EmployeeSQL\Images\departments_table.png" style="zoom: 50%;" />
+   ![Departments Table](EmployeeSQL/Images/departments_table.png)
+
 
 2. **titles** 
 
-   ​	<img src="C:\Repos\sql-challenge\EmployeeSQL\Images\titles_table.png" style="zoom: 50%;" />
+   ​	
+    ![Titles Table](EmployeeSQL\Images\titles_table.png)
 
 3. **employees** 
 
-   ​	<img src="C:\Repos\sql-challenge\EmployeeSQL\Images\employees_table.png" style="zoom:50%;" />
+   ​	
+    ![Employees Table](EmployeeSQL\Images\employees_table.png)
 
 ## Importing data
 
 After the tables have been created in the database, you can now import the CSV files. This step must be taken to be able to run queries on the data. 
 
-<img src="C:\Repos\sql-challenge\EmployeeSQL\Images\created_tables.png" style="zoom:33%;"				  	/>		
+<img src="EmployeeSQL\Images\created_tables.png" style="zoom:33%;"				  	/>		
 
 After the tables have been created, the ability to import the CSV can be achieved by right clicking on the corresponding table for which CSV is to be imported, and selecting the import/export option. and follow the prompts within the sub menu.
 
