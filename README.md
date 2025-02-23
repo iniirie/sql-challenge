@@ -1,4 +1,4 @@
-# Module 9- SQL challenge
+# Module 9- SQLX challenge
 
 ## Overview
 
@@ -15,7 +15,9 @@ This project involves setting up and querying a PostgreSQL database utilizing pg
 5. **salaries** - Tracks employee salaries
 6. **titles** - Stores job titles
 
-<img src="C:\Repos\sql-challenge\EmployeeSQL\Images\SQL_challenge_ERD.png" style="zoom: 67%;" />
+<!-- <img src="C:\Repos\sql-challenge\EmployeeSQL\Images\SQL_challenge_ERD.png" style="zoom: 50%;" /> -->
+![ERD Diagram](Images/SQL_challenge_ERD.png)
+
 
 
 
@@ -31,7 +33,7 @@ Prior to importing the CSVs to run queries, tables must be created to provide a 
 
 2. **titles** 
 
-   ​	<img src="C:\Repos\sql-challenge\EmployeeSQL\Images\titles_table.png" style="zoom: 67%;" />
+   ​	<img src="C:\Repos\sql-challenge\EmployeeSQL\Images\titles_table.png" style="zoom: 50%;" />
 
 3. **employees** 
 
@@ -49,15 +51,15 @@ After the tables have been created, the ability to import the CSV can be achieve
 
 1. **employee information** - defines specific employee information (employee number, first and last name, sex and salary)
 
-​	<img src="C:\Repos\sql-challenge\EmployeeSQL\Images\employee_data.png" style="zoom: 50%;"								 	/>
+​   <img src="C:\Repos\sql-challenge\EmployeeSQL\Images\employee_data.png" style="zoom: 50%;"								 	/>
 
-<img src="C:\Repos\sql-challenge\EmployeeSQL\Images\emp_output.png" style="zoom:50%;" 		/>	
+  <img src="C:\Repos\sql-challenge\EmployeeSQL\Images\emp_output.png" style="zoom:50%;" 		/>	
 
 2. **Employees hired in 1986** - lists only employees hired in 1986
 
-<img src="C:\Repos\sql-challenge\EmployeeSQL\Images\employees_1986.png" style="zoom:50%;" 		/>	
+  <img src="C:\Repos\sql-challenge\EmployeeSQL\Images\employees_1986.png" style="zoom:50%;" 		/>	
 
-<img src="C:\Repos\sql-challenge\EmployeeSQL\Images\1986_output.png" style="zoom:50%;" 			/>	
+  <img src="C:\Repos\sql-challenge\EmployeeSQL\Images\1986_output.png" style="zoom:50%;" 			/>	
 
 
 
