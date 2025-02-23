@@ -54,31 +54,45 @@ After the tables have been created, the ability to import the CSV can be achieve
 
 1. **employee information** - defines specific employee information (employee number, first and last name, sex and salary)
 
-​   <img src="C:\Repos\sql-challenge\EmployeeSQL\Images\employee_data.png" style="zoom: 50%;"								 	/>
+​   <img src="EmployeeSQL\Images\employee_data.png" style="zoom: 50%;"								 	/>
 
-  <img src="C:\Repos\sql-challenge\EmployeeSQL\Images\emp_output.png" style="zoom:50%;" 		/>	
+   <img src="EmployeeSQL\Images\emp_output.png" style="zoom:50%;" 		/>	
 
 2. **Employees hired in 1986** - lists only employees hired in 1986
 
-  <img src="C:\Repos\sql-challenge\EmployeeSQL\Images\employees_1986.png" style="zoom:50%;" 		/>	
+ 
+  <img src="EmployeeSQL\Images\employees_1986.png" style="zoom:50%;" /><br>	
 
-  <img src="C:\Repos\sql-challenge\EmployeeSQL\Images\1986_output.png" style="zoom:50%;" 			/>	
+  
+  <img src="EmployeeSQL\Images\1986_output.png" style="zoom:50%;" />	
 
 
 
 3. **Listing of Department Manager**-  lists the manager of each department with their employee information, along with department information
 
-   ​	<img src="C:\Repos\sql-challenge\EmployeeSQL\Images\dept_manager.png" style="zoom:50%;" 			/>
+   ​<img src="EmployeeSQL\Images\dept_manager.png" style="zoom:50%;" 			/>
 
-   <img src="C:\Repos\sql-challenge\EmployeeSQL\Images\dept_manager_output.png" style="zoom:50%;" />	
-
-   
+   <img src="EmployeeSQL\Images\dept_manager_output.png" style="zoom:50%;" />	
 
    
 
-   **Option to export quires to CSV Files** - to export the query results to CSV file, run the following input, and note it will need to be changed for each query: 
+   
 
-   <img src="C:\Repos\sql-challenge\EmployeeSQL\Images\to_csv.png" style="zoom:50%;" 		/>	
+   **Option to Export Quires to CSV Files** - to export the query results to CSV file, run the following input, and note it will need to be changed for each query: 
+
+   <img src="EmployeeSQL\Images\to_csv.png" style="zoom:50%;" 		/>
+
+
+
+
+## Summary
+
+This project covers the process of creating and managing a PostgreSQL database for employee and employer data analysis. It walks through table creation, data import, and querying techniques using pgAdmin. Key insights include employee information retrieval, department manager tracking, and salary analysis. The ability to export query results to CSV further enhances data usability. This structured approach provides a strong foundation for database management and SQL query execution.
+## Conclusion
+
+This project demonstrates how to set up, query, and analyze employee-related data using PostgreSQL and pgAdmin. The structured database schema, efficient queries, and CSV imports allow for a smooth data analysis workflow.
+
+
 
    
 
