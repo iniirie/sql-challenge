@@ -1,4 +1,4 @@
-# Module 9- SQLX challenge
+# Module 9- SQL challenge
 
 ## Overview
 
@@ -36,6 +36,7 @@ Prior to importing the CSVs to run queries, tables must be created to provide a 
 
    ​	
     ![Titles Table](EmployeeSQL\Images\titles_table.png)
+    
 
 3. **employees** 
 
